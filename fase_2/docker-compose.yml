@@ -1,0 +1,10 @@
+version: '2'
+
+services:
+  web:
+    image: nginx:stable-alpine
+    container_name: semantic-ui_web
+    volumes:
+      - .:/usr/share/nginx/html
+    ports:
+      - 9090:80
