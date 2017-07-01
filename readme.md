@@ -14,7 +14,7 @@
 
 ## Curso Semantic UI
 
-Material desenvolvido no curso básico de Semantic UI, no curso foram abordados os seguintes tópicos:
+Material desenvolvido no curso básico de Semantic UI da SchoolofNet, ministrado pelo instrutor [Erik Figueiredo](https://github.com/erikfig). Neste curso foram abordados os seguintes tópicos:
 
 * Containers;
 * Grids;
